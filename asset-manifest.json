@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/.github.io/usecasewebapp/static/css/main.be5c4024.chunk.css",
+    "main.js": "/.github.io/usecasewebapp/static/js/main.e12be2d1.chunk.js",
+    "main.js.map": "/.github.io/usecasewebapp/static/js/main.e12be2d1.chunk.js.map",
+    "runtime-main.js": "/.github.io/usecasewebapp/static/js/runtime-main.abfc39a0.js",
+    "runtime-main.js.map": "/.github.io/usecasewebapp/static/js/runtime-main.abfc39a0.js.map",
+    "static/js/2.1b94da56.chunk.js": "/.github.io/usecasewebapp/static/js/2.1b94da56.chunk.js",
+    "static/js/2.1b94da56.chunk.js.map": "/.github.io/usecasewebapp/static/js/2.1b94da56.chunk.js.map",
+    "static/js/3.556fe6fd.chunk.js": "/.github.io/usecasewebapp/static/js/3.556fe6fd.chunk.js",
+    "static/js/3.556fe6fd.chunk.js.map": "/.github.io/usecasewebapp/static/js/3.556fe6fd.chunk.js.map",
+    "index.html": "/.github.io/usecasewebapp/index.html",
+    "static/css/main.be5c4024.chunk.css.map": "/.github.io/usecasewebapp/static/css/main.be5c4024.chunk.css.map",
+    "static/js/2.1b94da56.chunk.js.LICENSE.txt": "/.github.io/usecasewebapp/static/js/2.1b94da56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abfc39a0.js",
+    "static/js/2.1b94da56.chunk.js",
+    "static/css/main.be5c4024.chunk.css",
+    "static/js/main.e12be2d1.chunk.js"
+  ]
+}
